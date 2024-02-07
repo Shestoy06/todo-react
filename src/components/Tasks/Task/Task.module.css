@@ -1,0 +1,54 @@
+
+.task {
+    display: inline-flex;
+    gap: 10px;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    color:  #fff;
+    background: #5899E2;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 24px;
+    border: 2px solid #e5ebff;
+    font-family: Futura, sans-serif;
+    font-size: 14px;
+
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.task.appear {
+    opacity: 1;
+}
+
+.task.hide {
+    opacity: 0;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+input {
+    all: unset;
+}
+.input  {
+    all: unset;
+
+    display: inline;
+    font-family: Futura, sans-serif;
+    font-size: 14px;
+    background: none;
+    border: none;
+    color: #fff;
+    padding: 0px 0px 0px 10px;
+    width: auto;
+
+}
+
+::placeholder {
+    color: rgba(255,255,255,0.6)
+}
