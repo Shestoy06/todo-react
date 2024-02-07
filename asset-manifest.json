@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.4b1bb4d2.css",
+    "main.js": "/todo-react/static/js/main.7c1e3ef5.js",
+    "static/js/787.8eb42f38.chunk.js": "/todo-react/static/js/787.8eb42f38.chunk.js",
+    "static/media/delete-button-svgrepo-com.svg": "/todo-react/static/media/delete-button-svgrepo-com.308429ae1ca19d0949a136519dece4a8.svg",
+    "index.html": "/todo-react/index.html",
+    "main.4b1bb4d2.css.map": "/todo-react/static/css/main.4b1bb4d2.css.map",
+    "main.7c1e3ef5.js.map": "/todo-react/static/js/main.7c1e3ef5.js.map",
+    "787.8eb42f38.chunk.js.map": "/todo-react/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1bb4d2.css",
+    "static/js/main.7c1e3ef5.js"
+  ]
+}
